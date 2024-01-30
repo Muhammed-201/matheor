@@ -6,13 +6,13 @@ Genel Giriş
 Çocuk izleyiciyi hedef alan projenin ana mesajı "Matematik Çılgınlığı: Matematik eğlenceli olabilir!”
 
 Proje Özellikleri ve Fikirleri
+
   #İnteraktif Oyunlar:
--	Sadece eğitici değil aynı zamanda eğlenceli matematik tabanlı oyunlar geliştirin.
--	Öğrenme deneyimini daha ilgi çekici hale getirmek için hikaye anlatımı veya karakter unsurlarını dahil edin.
+-	Sadece eğitici değil aynı zamanda eğlenceli matematik tabanlı oyun geliştirildi.
+-	Öğrenme deneyimini daha ilgi çekici hale getirmek için karakter unsurlarını dahil edildi.
   
  #Görsel Oğrenme Yardımcıları:
--	Matematiksel kavramları temsil etmek için canlı ve renkli görseller kullanın.
--	Çocukları farklı matematik etkinliklerinde yönlendiren animasyonlu karakterler veya maskotlar oluşturun.
+-	Matematiksel kavramları temsil etmek için canlı ve renkli görseller kullanıldı.
   
   #Bulmacalar ve Zorluklar:
 -	Eleştirel düşünmeyi teşvik eden yaşa uygun bulmacaları ve zorlukları tanıtın.
