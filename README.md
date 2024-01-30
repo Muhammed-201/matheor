@@ -16,11 +16,11 @@ Proje Özellikleri ve Fikirleri
   
  #Kullanıcı Dostu Arayüz:
 -	Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlayın.
--	Talimatların açık ve anlaşılması kolay olduğundan emin olun.
-
   
 Senaryo
 #Puanlama sistemi ile oynanabilir demo (sonsuz mod).
+
 #Çekirdek oyun uygulandı - patronu yenmek için uzaylıları (sayıları) eserler ile (operatörler) birleştirmek.
+
 #Müzik ve hareketli grafik çalışmaları da dahil olmak üzere tüm varlık dosyaları.
 
