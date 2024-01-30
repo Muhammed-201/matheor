@@ -3,6 +3,7 @@ Güncel Konular dersinin projesi
 
 Genel Giriş
 "Matematik Çılgınlığı: öğrenmenin Eğlenceli Olduğu Yer!”
+
 Çocuk izleyiciyi hedef alan projenin ana mesajı "Matematik Çılgınlığı: Matematik eğlenceli olabilir!”
 
 Proje Özellikleri ve Fikirleri
