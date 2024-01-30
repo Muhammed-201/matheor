@@ -14,18 +14,6 @@ Proje Özellikleri ve Fikirleri
  #Görsel Oğrenme Yardımcıları:
 -	Matematiksel kavramları temsil etmek için canlı ve renkli görseller kullanıldı.
   
-  #Bulmacalar ve Zorluklar:
--	Eleştirel düşünmeyi teşvik eden yaşa uygun bulmacaları ve zorlukları tanıtın.
--	Çocukları motive etmek için zorlukları giderek daha ilginç hale getirin.
-  
-  #Ödül Sistemi:
--	Çocukları motive etmek için bir ödül sistemi uygulayın. Bu, sanal rozetleri, yıldızları ve hatta bir karakter ilerleme sistemini içerebilir.
--	Bir başarı duygusu yaratmak için başarıları ve kilometre taşlarını kutlayın.
-  
-  #Etkileşimli Hikaye Anlatımı:
--	Matematik kavramlarını etkileşimli hikayelere veya senaryolara entegre edin.
--	Çocukların hikaye içinde matematik problem çözmeyi içeren kararlar almalarına izin verin.
-  
  #Kullanıcı Dostu Arayüz:
 -	Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlayın.
 -	Talimatların açık ve anlaşılması kolay olduğundan emin olun.
