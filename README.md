@@ -18,6 +18,7 @@ Proje Özellikleri ve Fikirleri
 -	Çocukların gezmesi için sezgisel, kullanıcı dostu bir arayüz tasarlayın.
   
 Senaryo
+
 #Puanlama sistemi ile oynanabilir demo (sonsuz mod).
 
 #Çekirdek oyun uygulandı - patronu yenmek için uzaylıları (sayıları) eserler ile (operatörler) birleştirmek.
